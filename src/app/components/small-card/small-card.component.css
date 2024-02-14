@@ -1,0 +1,30 @@
+.container__small-card > a {
+    /* border: 1px solid white; */
+    width: 700px;
+    text-decoration: none;
+    margin-bottom: 10px;
+
+    display: flex;
+    flex-direction: row;
+}
+
+
+.image__small-card > img {
+    max-width: 220px;
+    max-height: 130px;
+    margin-right: 20px;
+}
+
+.title__small-card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container__small-card > hr {
+    margin-bottom: 10px;
+}
+
+.title__small-card > h1 {
+    font-size: 20px;
+}
