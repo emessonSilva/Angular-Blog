@@ -21,9 +21,9 @@
 }
 
 .description__big-card > p {
-    color: #717171;
     font-size: 14px;
     margin-top: 10px;
+    text-align: justify;
 }
 
 .image__big-card > img {
