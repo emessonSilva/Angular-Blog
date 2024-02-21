@@ -11,6 +11,10 @@
 
 .content__description {
     margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: justify;
+
 }
 
 .content__description > p{
@@ -20,6 +24,19 @@
 
 .content__cover > img {
     border-radius: 5px;
-    min-width: 500px;
+    max-width: 500px;
     height: 300px;
+}
+
+button {
+    border: none;
+    background-color: white;
+    color: black;
+    font-weight: 600;
+    font-size: 16px;
+    padding: 10px;
+    width:  100px;
+    margin-top: 30px;
+    border-radius: 4px;
+    cursor: pointer;
 }
