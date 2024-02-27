@@ -2,4 +2,4 @@
 
 This angular project is a portfolio in a blog format.
 
---It´s still under construction--
+* It´s still under construction *
