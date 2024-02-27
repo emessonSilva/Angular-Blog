@@ -28,4 +28,5 @@
 
 .image__big-card > img {
     max-width: 400px;
+    border-radius: 4px;
 }
