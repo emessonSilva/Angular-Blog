@@ -1,5 +1,5 @@
 # AngularBlog
 
-This project is under construction. 
+This angular project is a portfolio in a blog format.
 
-
+** It´s still under construction **
