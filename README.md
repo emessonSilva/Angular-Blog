@@ -2,4 +2,4 @@
 
 This angular project is a portfolio in a blog format.
 
-** It´s still under construction **
+You can view it [here](https://emessonsilva.github.io/Angular-Blog/)https://emessonsilva.github.io/Angular-Blog/.
