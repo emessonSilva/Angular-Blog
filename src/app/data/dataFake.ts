@@ -50,6 +50,7 @@ export const dataFake = [
         cart by clicking the "Comprar" (Buy) button, triggering an action dispatched to the global shopping cart context. The project also
         features error handling in case of connection issues with the server. Overall, it provides a user-friendly interface for browsing 
         and purchasing products in an e-commerce setting.
+        You can access this project through the following link: https://github.com/emessonSilva/E-COMMERCE-WEB .
         `,
 
         "photoCover": "./assets/images/ECommerce.png"
