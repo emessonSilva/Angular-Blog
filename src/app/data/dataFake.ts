@@ -41,10 +41,17 @@ export const dataFake = [
     {
         "id": "4",
 
-        "title": "title",
+        "title": "E-Commerce Interface",
 
-        "description": "description",
+        "description": `This React project is an e-commerce web application. It uses Next.js for server-side rendering and includes 
+        a shopping cart functionality managed by a global state using React Context. The application fetches product data from a mock API 
+        using Axios and displays a list of products on the home page. It utilizes Next UI components for a clean and responsive UI design.
+        The loading state is handled gracefully with skeleton placeholders while data is being fetched. Users can add products to their 
+        cart by clicking the "Comprar" (Buy) button, triggering an action dispatched to the global shopping cart context. The project also
+        features error handling in case of connection issues with the server. Overall, it provides a user-friendly interface for browsing 
+        and purchasing products in an e-commerce setting.
+        `,
 
-        "photoCover": "https://www.morecap.com.br/assets/images/SM-placeholder.png"
+        "photoCover": "./assets/images/ECommerce.png"
     }
 ]
