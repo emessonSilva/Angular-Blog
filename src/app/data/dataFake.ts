@@ -18,9 +18,14 @@ export const dataFake = [
 
         "title": "Spotify Page",
 
-        "description": `This project is a web interface created from the Spotify website. To create this interface, I used the following 
-        technologies: HTML, CSS, and JavaScript. The Alura front-end immersion, which lasted 5 days, allowed me to 
-        accomplish this project. I have made the project available on my GitHub, through the following link: https://github.com/emessonSilva/Spotify-Page .`,
+        "description": `"This is an HTML, CSS and JavScript project with a design inspired by Spotify. 
+        The page layout consists of a sidebar with navigation, a main content area, 
+        and a premium offer footer. The navigation includes a logo, links to the home and search in the sidebar, as well as 
+        playlist sections in the main content. The main content area features playlist cards with images and titles. 
+        A responsive header includes navigation buttons, search functionality, and login/subscribe options. 
+        The 'Testar o Premium de graça' section in the footer promotes Spotify Premium with a call-to-action button. Overall, 
+        the project aims to provide a visually appealing and functional user interface for a music streaming application."
+        I have made the project available on my GitHub, through the following link: https://github.com/emessonSilva/Spotify-Page .`,
 
         "photoCover": "./assets/images/SpotifyPage.png"
     },
