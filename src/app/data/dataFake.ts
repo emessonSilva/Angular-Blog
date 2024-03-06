@@ -18,7 +18,7 @@ export const dataFake = [
 
         "title": "Spotify Page",
 
-        "description": `"This is an HTML, CSS and JavScript project with a design inspired by Spotify. 
+        "description": `This is an HTML, CSS and JavScript project with a design inspired by Spotify. 
         The page layout consists of a sidebar with navigation, a main content area, 
         and a premium offer footer. The navigation includes a logo, links to the home and search in the sidebar, as well as 
         playlist sections in the main content. The main content area features playlist cards with images and titles. 
