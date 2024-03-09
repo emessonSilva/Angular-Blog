@@ -9,7 +9,7 @@ export const dataFake = [
         I'm currently doing a degree in I.T. with the systems analysis and development course at Faculdade Senac-PE,
         on the night shift and I'm in the 3rd period. In Jan/2024 I completed the FAP (Accelerated Training in Programming)
         in the Front-End part provided by Softex and there I learnt about web development. At the moment I am looking to enter the I.T. area (internship, CLT,...)
-        in the development or data area.`,                
+        in the development or data area, but I am always willing to learn new things.`,                
         
         "photoCover": "./assets/images/Foto.jpeg"
     },
