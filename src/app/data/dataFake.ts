@@ -46,7 +46,7 @@ export const dataFake = [
     {
         "id": "4",
 
-        "title": "E-Commerce Interface",
+        "title": "E-Commerce Web",
 
         "description": `This React project is an e-commerce web application. It uses Next.js for server-side rendering and includes 
         a shopping cart functionality managed by a global state using React Context. The application fetches product data from a mock API 
@@ -55,8 +55,7 @@ export const dataFake = [
         cart by clicking the "Comprar" (Buy) button, triggering an action dispatched to the global shopping cart context. The project also
         features error handling in case of connection issues with the server. Overall, it provides a user-friendly interface for browsing 
         and purchasing products in an e-commerce setting.
-        You can access this project through the following link: https://github.com/emessonSilva/E-COMMERCE-WEB .
-        `,
+        You can access this project through the following link: https://github.com/emessonSilva/E-COMMERCE-WEB`,
 
         "photoCover": "./assets/images/ECommerce.png"
     }
